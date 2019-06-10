@@ -12,7 +12,7 @@ const Browse = () => (
     <Title>Navegar</Title>
 
     <List>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://about.canva.com/wp-content/uploads/sites/3/2015/01/album-cover.png"
           alt="Playlist"
